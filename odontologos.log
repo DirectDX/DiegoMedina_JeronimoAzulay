@@ -36,3 +36,19 @@
 [2024-02-27 22:16:28] [ INFO ] [OdontologoArrayList:20] Se persistio en la lista de Java: Odontologo{id=1, matricula='1', nombre='Juan', apellido='Perez'}
 [2024-02-27 22:16:28] [ INFO ] [OdontologoArrayList:20] Se persistio en la lista de Java: Odontologo{id=2, matricula='2', nombre='Juan2', apellido='Perez2'}
 [2024-02-27 22:16:28] [ INFO ] [OdontologoArrayList:41] Lista de odontologos de java: [Odontologo{id=1, matricula='1', nombre='Juan', apellido='Perez'}, Odontologo{id=2, matricula='2', nombre='Juan2', apellido='Perez2'}]
+[2024-02-27 22:34:26] [ INFO ] [OdontologoDaoH2:19] Persistiendo un Odontologo
+[2024-02-27 22:34:26] [ INFO ] [OdontologoDaoH2:42] Se persistio exitosamente a: Odontologo{id=1, matricula='1', nombre='Juan', apellido='Perez'}
+[2024-02-27 22:34:26] [ INFO ] [OdontologoDaoH2:19] Persistiendo un Odontologo
+[2024-02-27 22:34:26] [ INFO ] [OdontologoDaoH2:42] Se persistio exitosamente a: Odontologo{id=2, matricula='2', nombre='Juan2', apellido='Perez2'}
+[2024-02-27 22:34:26] [ INFO ] [OdontologoDaoH2:91] Lista de odontologos: [Odontologo{id=1, matricula='1', nombre='Juan', apellido='Perez'}, Odontologo{id=2, matricula='2', nombre='Juan2', apellido='Perez2'}]
+[2024-02-27 22:34:42] [ INFO ] [OdontologoArrayList:20] Se persistio en la lista de Java: Odontologo{id=1, matricula='1', nombre='Juan', apellido='Perez'}
+[2024-02-27 22:34:42] [ INFO ] [OdontologoArrayList:20] Se persistio en la lista de Java: Odontologo{id=2, matricula='2', nombre='Juan2', apellido='Perez2'}
+[2024-02-27 22:34:42] [ INFO ] [OdontologoArrayList:41] Lista de odontologos de java: [Odontologo{id=1, matricula='1', nombre='Juan', apellido='Perez'}, Odontologo{id=2, matricula='2', nombre='Juan2', apellido='Perez2'}]
+[2024-02-27 22:36:13] [ INFO ] [OdontologoArrayList:20] Se persistio en la lista de Java: Odontologo{id=1, matricula='1', nombre='Juan', apellido='Perez'}
+[2024-02-27 22:36:13] [ INFO ] [OdontologoArrayList:20] Se persistio en la lista de Java: Odontologo{id=2, matricula='2', nombre='Juan2', apellido='Perez2'}
+[2024-02-27 22:36:13] [ INFO ] [OdontologoArrayList:41] Lista de odontologos de java: [Odontologo{id=1, matricula='1', nombre='Juan', apellido='Perez'}, Odontologo{id=2, matricula='2', nombre='Juan2', apellido='Perez2'}]
+[2024-02-27 22:36:13] [ INFO ] [OdontologoDaoH2:19] Persistiendo un Odontologo
+[2024-02-27 22:36:13] [ INFO ] [OdontologoDaoH2:42] Se persistio exitosamente a: Odontologo{id=1, matricula='1', nombre='Juan', apellido='Perez'}
+[2024-02-27 22:36:13] [ INFO ] [OdontologoDaoH2:19] Persistiendo un Odontologo
+[2024-02-27 22:36:13] [ INFO ] [OdontologoDaoH2:42] Se persistio exitosamente a: Odontologo{id=2, matricula='2', nombre='Juan2', apellido='Perez2'}
+[2024-02-27 22:36:13] [ INFO ] [OdontologoDaoH2:91] Lista de odontologos: [Odontologo{id=1, matricula='1', nombre='Juan', apellido='Perez'}, Odontologo{id=2, matricula='2', nombre='Juan2', apellido='Perez2'}]
